@@ -134,7 +134,7 @@ Accès à l’interface utilisateur :
 
 ```
 CRUD-main/
-├── backend/ (Spring Boot)
+├── demo/ (Spring Boot)
 │   └── src/main/java/com/example/demo/
 ├── frontend/ (Angular)
 │   └── src/app/
@@ -155,5 +155,5 @@ Ce projet est libre et ouvert. N'hésitez pas à l'utiliser et à le modifier se
 
 ```
 
-Souhaites-tu que je te génère aussi un `README.md` au format `.md` téléchargeable ?
+
 ```
